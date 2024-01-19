@@ -15,8 +15,9 @@ Di dalam proyek, terdapat beberapa latihan dengan detail seperti di bawah ini:
 - Latihan 2: Control Flow
 - Latihan 3: Generics
 - Latihan 4: Collections
-- Latihan 5: Coroutines
-Selain itu, juga ada beberapa latihan opsional seperti di bawah ini.
+- Latihan 5: Coroutines.
+  
+.Selain itu, juga ada beberapa latihan opsional seperti di bawah ini.
 
 - Latihan opsional 1: Sum of Big Three 
 - Latihan opsional 2: Min and Max 
