@@ -17,7 +17,7 @@ Di dalam proyek, terdapat beberapa latihan dengan detail seperti di bawah ini:
 - Latihan 4: Collections
 - Latihan 5: Coroutines.
   
-.Selain itu, juga ada beberapa latihan opsional seperti di bawah ini.
+Selain itu, juga ada beberapa latihan opsional seperti di bawah ini.
 
 - Latihan opsional 1: Sum of Big Three 
 - Latihan opsional 2: Min and Max 
@@ -27,7 +27,11 @@ Di dalam proyek, terdapat beberapa latihan dengan detail seperti di bawah ini:
 
 ## Memeriksa Latihan
 Untuk memeriksa apakah seluruh latihan sudah dikerjakan dengan benar. Anda bisa mengikuti beberapa langkah berikut:
-- Buka bilah terminal yang ada pada IntelliJ kemudian jalankan perintah di bawah ini :
-`gradle runMainCriteriaTest`
+- Buka bilah terminal yang ada pada IntelliJ kemudian jalankan perintah di bawah ini:
+```bash
+gradle runMainCriteriaTest
+```
 atau
-` ./gradlew runMainCriteriaTest`
+```bash
+./gradlew runMainCriteriaTest
+```
